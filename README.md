@@ -1,7 +1,7 @@
 Helpful Highlighter
 ===
 
-Adaptive Excel 2007/2010 AddIn for visually/mentally imparied users that will highlight the current row and column
+Adaptive Excel 2007/2010/? AddIn for visually/mentally imparied users that will highlight the current row and column
 
 **Note:** If you are looking to *download* HelpfulHighlighter (i.e., you are not a developer, and the source code is of little interest to you), check out http://roadha.us/portfolio/helpfulhighlighter/ instead.
 
